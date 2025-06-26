@@ -1,2 +1,3 @@
 # task-3-AI-ML
-Understanding data using statistics and visualizations
+Implement and understand simple & multiple linear regression
+tools: scikit- learn, pandas, matplotlib
